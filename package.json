@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "socketio": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0"
